@@ -1,0 +1,3 @@
+[submodule "utilsSubGitTest"]
+	path = utilsSubGitTest
+	url = https://github.com/Darkfafi/utilsSubGitTest.git
